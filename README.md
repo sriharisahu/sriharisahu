@@ -75,10 +75,12 @@ I work with startups, SMEs, and enterprise organizations to design and implement
 - Technology Consulting
 
 ---
+[![Srihari's GitHub stats](https://github-stats-extended.vercel.app/api?username=sriharisahu)](https://github.com/stats-organization/github-stats-extended)
+---
 
 ## 🏆 Professional Highlights
 
-- 15+ years of technology leadership
+- 15+ years of technology leadership managing engineering teams of 170+ FTEs across engineering, product and delivery teams.
 - Led engineering organizations and cross-functional teams
 - Delivered enterprise-scale cloud and software modernization initiatives
 - Designed scalable architectures for mission-critical applications
